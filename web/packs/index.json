@@ -1,0 +1,13 @@
+{
+  "packs": [
+    "Extra.json",
+    "Gers.json",
+    "KEK.json",
+    "nise.json",
+    "Peepo.json",
+    "Pepe.json",
+    "skull.json",
+    "xdd.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
